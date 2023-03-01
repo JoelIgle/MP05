@@ -4,7 +4,7 @@ Cerca per Internet i respon a aquestes preguntes.
 
 1. Buscar quines són les principals versions de UML publicades fins la més actual i de quin any són.
 
-El novembre de 1997 va sortir la primera versió de  UML, la 1.1, 8 anys després, el gener de 2005 va sortir la versió 1.4.2, on va passar a ser acceptada per la ISO, mesos després, en agost, va sortir la versió 2.0, i desde el 2005 fins al 2015 que va osrtir la última versió que hi ha actualment no van fer canvis importants, gairebé manteniment.
+El novembre de 1997 va sortir la primera versió de  UML, la 1.1, 8 anys després, el gener de 2005 va sortir la versió 1.4.2, on va passar a ser acceptada per la ISO, mesos després, en agost, va sortir la versió 2.0, i desde el 2005 fins al 2017 que va sortir la última versió, 2.5.1, que hi ha actualment no van fer canvis importants, gairebé manteniment.
 
 2. Qui va crear UML?
 
@@ -28,4 +28,4 @@ OMG significa Object Managment Group, és un grup americà que te per objectiu l
 
 7. Què té que veure OMG amb UML?
 
-El OMG te com a objectiu promocionar el Object Model en totes les seves formes, i el UML és una d'aquestes formes, així que OMG va 'ajudar' a UML a estandaritzar-se. 
+El OMG te com a objectiu promocionar el Object Model en totes les seves formes, i el UML és una d'aquestes formes, així que OMG va 'ajudar' a UML a estandaritzar-se, el 1997 UML es presentada a la organitzaci 
