@@ -12,7 +12,7 @@ Els tres creadors de UML van ser  Grady Booch, James Rumbaugh i Ivar Jacobson, p
 
 3. Què és Rational Rose?
 
-Rational Rose es una eina de diseny orientada a objectes, que permet respresentar gràficament el sistema fent servir un llenguatge estàndart i comú per a facilitar la comunicació, s'integra en eines com Micorsosdt Visual Studio.
+Rational Rose es una eina de diseny orientada a objectes, que permet respresentar gràficament el sistema fent servir un llenguatge estàndart i comú per a facilitar la comunicació, s'integra en eines com Microsoft Visual Studio.
 
 4. Què té que veure Rational Rose amb UML?
 
