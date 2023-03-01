@@ -51,3 +51,30 @@ Utilitzarem [Lucid](https://lucid.app/) per crear els següents objectes:
 ![imatge](https://user-images.githubusercontent.com/114901284/222084083-b0f75da2-2a89-410d-ad86-8b9c2766fc72.png)
 
 Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear 5 generalitzacións de classes (subclasse i superclasse):
+
+1.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222090731-8ba9c762-8218-4412-a255-c1ef0be4ba25.png)
+
+2.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222090828-abcc9701-32cd-469a-aa23-350783aa2a1f.png)
+
+3.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222090895-a75e4233-ca7e-441e-b938-a2b7e33959c6.png)
+
+4.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222090958-fee33770-8317-4470-9d95-90ec7fd53306.png)
+
+5.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222091199-f6971d7f-8f9d-44c4-9134-cf5cc485b548.png)
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
