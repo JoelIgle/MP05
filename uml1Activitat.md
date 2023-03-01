@@ -28,4 +28,26 @@ OMG significa Object Managment Group, és un grup americà que te per objectiu l
 
 7. Què té que veure OMG amb UML?
 
-El OMG te com a objectiu promocionar el Object Model en totes les seves formes, i el UML és una d'aquestes formes, així que OMG va 'ajudar' a UML a estandaritzar-se, el 1997 UML es presentada a la organitzaci. 
+El OMG te com a objectiu promocionar el Object Model en totes les seves formes, i el UML és una d'aquestes formes, així que OMG va 'ajudar' a UML a estandaritzar-se, el 1997 UML es presentada a la organització.
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear els següents objectes:
+
+1. persona.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222080832-e92f4fb9-3d0c-444c-b4a6-c276a6b5a33d.png)
+
+2. llibre.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222083991-964937fb-a653-47e4-878d-937336a88357.png)
+
+3. vehicle.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222084044-3c1faad8-4a4b-4acf-90f9-a67f051c56c9.png)
+
+4. ordinador.
+
+![imatge](https://user-images.githubusercontent.com/114901284/222084083-b0f75da2-2a89-410d-ad86-8b9c2766fc72.png)
+
+Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
