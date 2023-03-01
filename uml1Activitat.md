@@ -28,4 +28,4 @@ OMG significa Object Managment Group, és un grup americà que te per objectiu l
 
 7. Què té que veure OMG amb UML?
 
-El OMG te com a objectiu promocionar el Object Model en totes les seves formes, i el UML és una d'aquestes formes, així que OMG va 'ajudar' a UML a estandaritzar-se, el 1997 UML es presentada a la organitzaci 
+El OMG te com a objectiu promocionar el Object Model en totes les seves formes, i el UML és una d'aquestes formes, així que OMG va 'ajudar' a UML a estandaritzar-se, el 1997 UML es presentada a la organitzaci. 
