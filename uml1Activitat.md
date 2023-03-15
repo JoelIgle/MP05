@@ -116,6 +116,6 @@ Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
 
 Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
 
-![image](https://user-images.githubusercontent.com/114901284/225248376-80e817b3-808c-41cc-988f-7dca6e488562.png)
+![image](https://user-images.githubusercontent.com/114901284/225248563-b946da4c-2430-4c19-980d-43a3bc61824b.png)
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
