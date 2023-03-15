@@ -119,3 +119,12 @@ Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
 ![image](https://user-images.githubusercontent.com/114901284/225248563-b946da4c-2430-4c19-980d-43a3bc61824b.png)
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) crea 5 relacions d'associació amb operacions o atributs propis:
+
+![image](https://user-images.githubusercontent.com/114901284/225251907-1214860c-aade-449b-848b-33d8f3017430.png)
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
