@@ -137,14 +137,28 @@ Utilitzarem [Lucid](https://lucid.app/) i IntelliJ crea 2 interfícies, la seva 
 
 1.
 Diagrama:
+
 ![image](https://user-images.githubusercontent.com/114901284/225258952-cc80332a-a9ef-4ee1-a76e-64f2351697de.png)
 
 Interface:
+
 ![image](https://user-images.githubusercontent.com/114901284/225258881-024c6b44-e28b-43e3-ada9-fbdb276041ec.png)
 
 Class:
+
 ![image](https://user-images.githubusercontent.com/114901284/225259013-2c5b6fd6-ba7f-4647-8952-1fbfbced1fcd.png)
 
 2.
+Diagrama:
+
+![image](https://user-images.githubusercontent.com/114901284/225261931-b016fc83-b1c4-4e36-9033-9495b227ba70.png)
+
+Interface:
+
+![image](https://user-images.githubusercontent.com/114901284/225261983-141c3b6f-3aa1-4a43-883b-2bb40eb4aa0c.png)
+
+Class:
+
+![image](https://user-images.githubusercontent.com/114901284/225262025-9745ad80-1929-410d-92fa-5ba29445c9a1.png)
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
