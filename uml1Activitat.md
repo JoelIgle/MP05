@@ -128,3 +128,23 @@ Utilitzarem [Lucid](https://lucid.app/) crea 5 relacions d'associació amb opera
 ![image](https://user-images.githubusercontent.com/114901284/225251907-1214860c-aade-449b-848b-33d8f3017430.png)
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) i IntelliJ crea 2 interfícies, la seva codificació a Java i una classe que la implementi.
+
+1.
+Diagrama:
+![image](https://user-images.githubusercontent.com/114901284/225258952-cc80332a-a9ef-4ee1-a76e-64f2351697de.png)
+
+Interface:
+![image](https://user-images.githubusercontent.com/114901284/225258881-024c6b44-e28b-43e3-ada9-fbdb276041ec.png)
+
+Class:
+![image](https://user-images.githubusercontent.com/114901284/225259013-2c5b6fd6-ba7f-4647-8952-1fbfbced1fcd.png)
+
+2.
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
