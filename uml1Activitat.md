@@ -77,4 +77,20 @@ Utilitzarem [Lucid](https://lucid.app/) per crear 5 generalitzacións de classes
 ![imatge](https://user-images.githubusercontent.com/114901284/222091199-f6971d7f-8f9d-44c4-9134-cf5cc485b548.png)
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+# Activitat
+
+Escrivim quines associacions poden tenir les següents classes, nom d'associació i cardinalitat:
+
+1. persona, DNI.
+2. persona, comics.
+3. persona, tren.
+4. animal, persona.
+5. persona, persona.
+6. persona, cotxe.
+7. persona, adreça.
+8. taxi, client.
+![image](https://user-images.githubusercontent.com/114901284/225239133-94b9107e-578d-43bb-8003-c928f65b1e21.png)
+
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
