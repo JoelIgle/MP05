@@ -110,3 +110,12 @@ Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear 5 relacions de composició:
+
+![image](https://user-images.githubusercontent.com/114901284/225248376-80e817b3-808c-41cc-988f-7dca6e488562.png)
+
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
