@@ -89,8 +89,24 @@ Escrivim quines associacions poden tenir les següents classes, nom d'associaci�
 6. persona, cotxe.
 7. persona, adreça.
 8. taxi, client.
+
 ![image](https://user-images.githubusercontent.com/114901284/225239133-94b9107e-578d-43bb-8003-c928f65b1e21.png)
 
+🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
+
+🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻
+
+# Activitat
+
+Utilitzarem [Lucid](https://lucid.app/) per crear una agregació entre:
+
+1. ovelles, corral.
+2. animals, zoo.
+3. curs, estudiants.
+4. biblioteca, llibres.
+5. atletes, equip.
+
+![image](https://user-images.githubusercontent.com/114901284/225243613-63fd7980-6c44-49ad-b537-e6dffa55e9db.png)
 
 🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺🔺
 
